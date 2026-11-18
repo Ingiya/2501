@@ -1,0 +1,401 @@
+response_id,response_date,channel,membership_type,ebike_interest,seconds_taken
+R1001,2026-04-01,Email,Non-member,1,95
+R1002,2026-04-01,Email,Non-member,1,154
+R1003,2026-04-01,In-store tablet,Non-member,1,61
+R1004,2026-04-01,Email,Non-member,1,70
+R1005,2026-04-01,Email,Premium,4,109
+R1006,2026-04-01,Email,Non-member,1,83
+R1007,2026-04-01,Email,Premium,5,74
+R1008,2026-04-01,Email,Premium,4,95
+R1009,2026-04-01,Email,Non-member,3,70
+R1010,2026-04-01,Email,Premium,4,45
+R1011,2026-04-01,Email,Non-member,2,45
+R1012,2026-04-01,Email,Basic,1,81
+R1013,2026-04-01,Email,Premium,3,200
+R1014,2026-04-01,Email,Premium,5,68
+R1015,2026-04-01,Email,Premium,4,60
+R1016,2026-04-01,Email,Basic,2,54
+R1017,2026-04-01,Email,Premium,4,81
+R1018,2026-04-01,Email,Premium,4,41
+R1019,2026-04-02,Email,Premium,5,89
+R1020,2026-04-02,Email,Premium,2,52
+R1021,2026-04-02,Email,Basic,1,49
+R1022,2026-04-02,Email,Premium,4,35
+R1023,2026-04-02,Email,Non-member,1,105
+R1024,2026-04-02,Email,Premium,4,89
+R1025,2026-04-02,Email,Basic,1,32
+R1026,2026-04-02,Email,Premium,5,45
+R1027,2026-04-02,Email,Basic,5,31
+R1028,2026-04-02,Email,Premium,3,75
+R1029,2026-04-02,Email,Premium,5,32
+R1030,2026-04-02,Email,Premium,5,25
+R1031,2026-04-02,Email,Premium,4,82
+R1032,2026-04-02,Email,Premium,5,50
+R1033,2026-04-02,Email,Basic,1,43
+R1034,2026-04-02,Email,Premium,4,25
+R1035,2026-04-02,Email,Premium,5,25
+R1036,2026-04-02,Email,Premium,2,48
+R1037,2026-04-03,Email,Premium,4,83
+R1038,2026-04-03,Email,Premium,2,108
+R1039,2026-04-03,Email,Basic,3,44
+R1040,2026-04-03,Email,Non-member,3,65
+R1041,2026-04-03,In-store tablet,Basic,5,100
+R1042,2026-04-03,Email,Basic,2,109
+R1043,2026-04-03,Email,Premium,5,79
+R1044,2026-04-03,Email,Premium,4,103
+R1045,2026-04-03,Email,Premium,2,32
+R1046,2026-04-03,Email,Basic,2,85
+R1047,2026-04-03,Email,Premium,5,52
+R1048,2026-04-04,Email,Basic,5,120
+R1049,2026-04-04,Email,Premium,4,81
+R1050,2026-04-04,Email,Premium,1,73
+R1051,2026-04-04,Email,Premium,4,44
+R1052,2026-04-04,Email,Premium,4,52
+R1053,2026-04-04,Email,Non-member,2,35
+R1054,2026-04-04,Email,Basic,1,76
+R1055,2026-04-04,Email,Basic,4,91
+R1056,2026-04-04,In-store tablet,Basic,5,12
+R1057,2026-04-04,Email,Premium,5,46
+R1058,2026-04-04,Email,Premium,5,91
+R1059,2026-04-04,Email,Premium,5,52
+R1060,2026-04-04,Email,Premium,5,68
+R1061,2026-04-05,In-store tablet,Premium,5,92
+R1062,2026-04-05,Email,Non-member,1,37
+R1063,2026-04-05,Email,Non-member,1,111
+R1064,2026-04-05,Email,Basic,2,46
+R1065,2026-04-05,Email,Premium,2,75
+R1066,2026-04-05,Email,Premium,5,86
+R1067,2026-04-05,Email,Premium,4,105
+R1068,2026-04-05,Email,Premium,5,74
+R1069,2026-04-05,Email,Basic,3,69
+R1070,2026-04-06,Email,Basic,3,67
+R1071,2026-04-06,In-store tablet,Basic,2,116
+R1072,2026-04-06,In-store tablet,Premium,5,103
+R1073,2026-04-06,In-store tablet,Non-member,3,129
+R1074,2026-04-06,Email,Basic,3,72
+R1075,2026-04-06,Email,Basic,2,98
+R1076,2026-04-06,Email,Non-member,2,83
+R1077,2026-04-06,Email,Premium,5,53
+R1078,2026-04-06,Email,Basic,3,54
+R1079,2026-04-06,Email,Basic,3,87
+R1080,2026-04-07,Email,Premium,4,76
+R1081,2026-04-07,Email,Premium,5,58
+R1082,2026-04-07,In-store tablet,Basic,1,53
+R1083,2026-04-07,Email,Premium,5,35
+R1084,2026-04-07,Email,Basic,2,54
+R1085,2026-04-07,Email,Premium,4,65
+R1086,2026-04-07,Email,Basic,3,44
+R1087,2026-04-07,Email,Premium,5,72
+R1088,2026-04-07,Email,Non-member,2,97
+R1089,2026-04-07,Email,Premium,5,49
+R1090,2026-04-08,Email,Basic,3,56
+R1091,2026-04-08,Email,Basic,4,71
+R1092,2026-04-08,Email,Premium,4,57
+R1093,2026-04-08,Email,Premium,4,78
+R1094,2026-04-08,Email,Premium,5,111
+R1095,2026-04-08,Email,Premium,4,108
+R1096,2026-04-08,Email,Basic,2,127
+R1097,2026-04-08,Email,Premium,5,66
+R1098,2026-04-08,Email,Non-member,2,79
+R1099,2026-04-08,Email,Basic,1,60
+R1100,2026-04-09,Email,Basic,3,41
+R1101,2026-04-09,Email,Basic,1,59
+R1102,2026-04-09,Email,Premium,1,56
+R1103,2026-04-09,Email,Premium,2,104
+R1104,2026-04-10,Email,Basic,2,149
+R1105,2026-04-10,Email,Premium,4,62
+R1106,2026-04-10,Email,Premium,2,38
+R1107,2026-04-10,In-store tablet,Non-member,5,7
+R1108,2026-04-11,Email,Basic,2,30
+R1109,2026-04-11,Email,Premium,4,34
+R1110,2026-04-11,Email,Non-member,4,58
+R1111,2026-04-12,Email,Premium,4,86
+R1112,2026-04-12,In-store tablet,Basic,5,13
+R1113,2026-04-13,Email,Premium,2,62
+R1114,2026-04-13,Email,Premium,4,82
+R1115,2026-04-13,Email,Premium,5,49
+R1116,2026-04-16,In-store tablet,Basic,1,31
+R1117,2026-04-16,In-store tablet,Non-member,2,54
+R1118,2026-04-16,In-store tablet,Basic,2,44
+R1119,2026-04-17,In-store tablet,Premium,2,76
+R1120,2026-04-17,In-store tablet,Basic,5,6
+R1121,2026-04-18,In-store tablet,Non-member,2,97
+R1122,2026-04-19,Email,Premium,3,71
+R1123,2026-04-20,In-store tablet,Basic,5,8
+R1124,2026-04-20,Email,Basic,5,60
+R1125,2026-04-21,In-store tablet,Premium,5,7
+R1126,2026-04-22,In-store tablet,Basic,5,8
+R1127,2026-04-22,In-store tablet,Basic,3,151
+R1128,2026-04-23,In-store tablet,Premium,3,33
+R1129,2026-04-23,In-store tablet,Basic,5,12
+R1130,2026-04-24,In-store tablet,Non-member,5,14
+R1131,2026-04-24,In-store tablet,Premium,4,82
+R1132,2026-04-25,In-store tablet,Non-member,5,8
+R1133,2026-04-26,In-store tablet,Non-member,5,9
+R1134,2026-04-26,In-store tablet,Basic,4,123
+R1135,2026-04-27,In-store tablet,Non-member,1,75
+R1136,2026-04-28,In-store tablet,Non-member,3,31
+R1137,2026-04-30,In-store tablet,Basic,5,32
+R1138,2026-04-30,In-store tablet,Premium,5,14
+R1139,2026-05-01,In-store tablet,Basic,3,129
+R1140,2026-05-01,In-store tablet,Basic,1,64
+R1141,2026-05-01,In-store tablet,Non-member,4,113
+R1142,2026-05-04,In-store tablet,Basic,2,82
+R1143,2026-05-06,In-store tablet,Basic,3,96
+R1144,2026-05-09,In-store tablet,Non-member,2,156
+R1145,2026-05-09,In-store tablet,Non-member,5,11
+R1146,2026-05-09,In-store tablet,Non-member,5,5
+R1147,2026-05-10,In-store tablet,Premium,4,99
+R1148,2026-05-10,In-store tablet,Basic,1,113
+R1149,2026-05-11,In-store tablet,Premium,5,5
+R1150,2026-05-11,In-store tablet,Non-member,5,97
+R1151,2026-05-12,In-store tablet,Non-member,4,78
+R1152,2026-05-14,In-store tablet,Basic,1,169
+R1153,2026-05-14,In-store tablet,Basic,2,127
+R1154,2026-05-15,In-store tablet,Premium,5,7
+R1155,2026-05-16,In-store tablet,Basic,4,76
+R1156,2026-05-16,In-store tablet,Basic,3,181
+R1157,2026-05-16,In-store tablet,Basic,4,72
+R1158,2026-05-19,In-store tablet,Basic,5,11
+R1159,2026-05-19,In-store tablet,Basic,5,61
+R1160,2026-05-19,In-store tablet,Basic,5,61
+R1161,2026-05-20,In-store tablet,Non-member,5,8
+R1162,2026-05-22,In-store tablet,Non-member,1,157
+R1163,2026-05-22,In-store tablet,Basic,4,58
+R1164,2026-05-22,In-store tablet,Basic,3,242
+R1165,2026-05-23,In-store tablet,Premium,5,7
+R1166,2026-05-24,In-store tablet,Non-member,1,61
+R1167,2026-05-25,In-store tablet,Premium,5,97
+R1168,2026-05-25,In-store tablet,Basic,5,5
+R1169,2026-05-25,In-store tablet,Premium,5,76
+R1170,2026-05-26,In-store tablet,Premium,4,53
+R1171,2026-05-29,In-store tablet,Premium,5,7
+R1172,2026-05-30,In-store tablet,Non-member,3,87
+R1173,2026-06-01,Email,Basic,1,50
+R1174,2026-06-01,Email,Basic,1,51
+R1175,2026-06-01,Email,Premium,5,119
+R1176,2026-06-01,Email,Premium,1,81
+R1177,2026-06-01,Email,Premium,5,116
+R1178,2026-06-01,Email,Basic,1,45
+R1179,2026-06-01,Email,Premium,4,51
+R1180,2026-06-01,Email,Premium,4,54
+R1181,2026-06-01,Email,Premium,1,55
+R1182,2026-06-01,Email,Basic,4,98
+R1183,2026-06-01,Email,Premium,1,71
+R1184,2026-06-01,Email,Non-member,2,62
+R1185,2026-06-01,In-store tablet,Non-member,4,50
+R1186,2026-06-01,Email,Premium,5,104
+R1187,2026-06-01,Email,Premium,2,44
+R1188,2026-06-01,Email,Non-member,2,64
+R1189,2026-06-01,Email,Premium,3,71
+R1190,2026-06-01,In-store tablet,Non-member,2,47
+R1191,2026-06-01,Email,Basic,3,61
+R1192,2026-06-01,Email,Basic,1,60
+R1193,2026-06-01,Email,Non-member,2,80
+R1194,2026-06-01,Email,Basic,2,78
+R1195,2026-06-01,Email,Basic,3,90
+R1196,2026-06-01,Email,Basic,1,124
+R1197,2026-06-01,Email,Basic,5,91
+R1198,2026-06-02,Email,Premium,2,88
+R1199,2026-06-02,Email,Premium,4,61
+R1200,2026-06-02,Email,Premium,5,37
+R1201,2026-06-02,Email,Premium,3,45
+R1202,2026-06-02,Email,Premium,2,47
+R1203,2026-06-02,Email,Premium,4,97
+R1204,2026-06-02,Email,Premium,5,87
+R1205,2026-06-02,Email,Premium,5,79
+R1206,2026-06-02,Email,Premium,1,47
+R1207,2026-06-02,Email,Premium,5,71
+R1208,2026-06-02,Email,Basic,1,90
+R1209,2026-06-02,Email,Basic,1,70
+R1210,2026-06-02,Email,Basic,1,74
+R1211,2026-06-02,Email,Basic,5,35
+R1212,2026-06-02,Email,Premium,4,52
+R1213,2026-06-02,Email,Premium,4,40
+R1214,2026-06-02,Email,Non-member,1,99
+R1215,2026-06-02,Email,Basic,1,65
+R1216,2026-06-02,Email,Basic,1,25
+R1217,2026-06-02,Email,Basic,4,82
+R1218,2026-06-02,Email,Premium,4,79
+R1219,2026-06-02,Email,Premium,4,138
+R1220,2026-06-02,Email,Premium,4,76
+R1221,2026-06-02,Email,Basic,3,116
+R1222,2026-06-02,Email,Premium,4,119
+R1223,2026-06-02,Email,Premium,4,65
+R1224,2026-06-02,Email,Basic,2,64
+R1225,2026-06-02,Email,Basic,3,173
+R1226,2026-06-03,Email,Premium,1,214
+R1227,2026-06-03,Email,Premium,4,64
+R1228,2026-06-03,Email,Premium,4,44
+R1229,2026-06-03,Email,Premium,4,156
+R1230,2026-06-03,Email,Non-member,1,171
+R1231,2026-06-03,Email,Non-member,4,63
+R1232,2026-06-03,Email,Basic,1,30
+R1233,2026-06-03,Email,Basic,3,109
+R1234,2026-06-03,Email,Basic,1,104
+R1235,2026-06-03,Email,Basic,5,49
+R1236,2026-06-03,Email,Premium,5,48
+R1237,2026-06-03,Email,Basic,1,84
+R1238,2026-06-03,Email,Basic,4,71
+R1239,2026-06-04,Email,Basic,5,52
+R1240,2026-06-04,Email,Premium,5,56
+R1241,2026-06-04,Email,Basic,3,168
+R1242,2026-06-04,Email,Basic,1,178
+R1243,2026-06-04,Email,Basic,2,42
+R1244,2026-06-04,Email,Basic,5,78
+R1245,2026-06-04,Email,Premium,4,64
+R1246,2026-06-04,Email,Basic,2,41
+R1247,2026-06-04,Email,Premium,1,103
+R1248,2026-06-04,Email,Premium,5,92
+R1249,2026-06-04,Email,Premium,4,31
+R1250,2026-06-04,Email,Premium,5,65
+R1251,2026-06-04,Email,Premium,5,52
+R1252,2026-06-04,Email,Basic,4,76
+R1253,2026-06-04,Email,Premium,4,89
+R1254,2026-06-04,Email,Premium,4,56
+R1255,2026-06-05,In-store tablet,Non-member,2,94
+R1256,2026-06-05,In-store tablet,Non-member,5,7
+R1257,2026-06-05,Email,Basic,1,90
+R1258,2026-06-05,Email,Premium,5,45
+R1259,2026-06-05,Email,Premium,2,57
+R1260,2026-06-05,Email,Premium,5,54
+R1261,2026-06-05,Email,Premium,1,177
+R1262,2026-06-05,Email,Basic,5,39
+R1263,2026-06-05,Email,Basic,3,60
+R1264,2026-06-05,Email,Premium,1,77
+R1265,2026-06-05,Email,Premium,4,85
+R1266,2026-06-05,Email,Basic,1,88
+R1267,2026-06-05,Email,Basic,3,117
+R1268,2026-06-06,Email,Non-member,1,165
+R1269,2026-06-06,Email,Basic,4,82
+R1270,2026-06-06,Email,Premium,5,137
+R1271,2026-06-06,Email,Basic,3,75
+R1272,2026-06-06,Email,Basic,3,78
+R1273,2026-06-06,Email,Premium,5,56
+R1274,2026-06-06,In-store tablet,Non-member,4,57
+R1275,2026-06-06,In-store tablet,Non-member,5,14
+R1276,2026-06-06,Email,Premium,4,32
+R1277,2026-06-06,Email,Premium,4,67
+R1278,2026-06-06,Email,Premium,2,59
+R1279,2026-06-06,Email,Premium,1,100
+R1280,2026-06-06,Email,Premium,5,74
+R1281,2026-06-06,In-store tablet,Basic,1,129
+R1282,2026-06-06,Email,Premium,4,162
+R1283,2026-06-06,Email,Premium,4,83
+R1284,2026-06-06,Email,Premium,3,72
+R1285,2026-06-06,In-store tablet,Premium,5,11
+R1286,2026-06-07,Email,Premium,5,67
+R1287,2026-06-07,Email,Basic,2,25
+R1288,2026-06-07,Email,Basic,1,79
+R1289,2026-06-07,Email,Basic,4,114
+R1290,2026-06-07,Email,Non-member,3,107
+R1291,2026-06-07,Email,Basic,5,83
+R1292,2026-06-07,Email,Non-member,1,92
+R1293,2026-06-08,Email,Premium,2,95
+R1294,2026-06-08,Email,Premium,5,65
+R1295,2026-06-08,Email,Premium,5,44
+R1296,2026-06-08,Email,Basic,1,120
+R1297,2026-06-08,Email,Non-member,2,32
+R1298,2026-06-09,In-store tablet,Non-member,2,72
+R1299,2026-06-09,Email,Premium,4,75
+R1300,2026-06-09,Email,Premium,4,87
+R1301,2026-06-09,Email,Basic,4,39
+R1302,2026-06-09,Email,Premium,3,60
+R1303,2026-06-09,Email,Premium,3,59
+R1304,2026-06-09,In-store tablet,Non-member,2,107
+R1305,2026-06-09,Email,Non-member,4,45
+R1306,2026-06-10,In-store tablet,Non-member,1,54
+R1307,2026-06-10,Email,Basic,3,62
+R1308,2026-06-11,In-store tablet,Basic,3,76
+R1309,2026-06-11,Email,Premium,4,69
+R1310,2026-06-11,In-store tablet,Non-member,2,68
+R1311,2026-06-11,Email,Premium,4,152
+R1312,2026-06-12,In-store tablet,Premium,5,12
+R1313,2026-06-12,In-store tablet,Non-member,5,69
+R1314,2026-06-14,In-store tablet,Basic,5,5
+R1315,2026-06-14,In-store tablet,Basic,3,119
+R1316,2026-06-14,Email,Basic,5,135
+R1317,2026-06-15,In-store tablet,Non-member,5,7
+R1318,2026-06-16,Email,Non-member,5,72
+R1319,2026-06-16,In-store tablet,Basic,3,40
+R1320,2026-06-16,Email,Premium,1,70
+R1321,2026-06-16,Email,Non-member,3,34
+R1322,2026-06-17,Email,Non-member,1,52
+R1323,2026-06-17,In-store tablet,Premium,1,80
+R1324,2026-06-17,Email,Premium,5,73
+R1325,2026-06-18,In-store tablet,Premium,5,8
+R1326,2026-06-20,Email,Premium,2,105
+R1327,2026-06-20,In-store tablet,Premium,4,121
+R1328,2026-06-21,In-store tablet,Basic,5,8
+R1329,2026-06-21,In-store tablet,Premium,5,9
+R1330,2026-06-23,In-store tablet,Basic,4,96
+R1331,2026-06-24,In-store tablet,Basic,5,9
+R1332,2026-06-24,In-store tablet,Non-member,1,159
+R1333,2026-06-26,In-store tablet,Basic,5,5
+R1334,2026-06-26,In-store tablet,Basic,5,11
+R1335,2026-06-27,In-store tablet,Non-member,5,11
+R1336,2026-06-28,In-store tablet,Basic,1,64
+R1337,2026-06-28,In-store tablet,Premium,5,90
+R1338,2026-06-29,In-store tablet,Premium,5,5
+R1339,2026-07-01,In-store tablet,Premium,5,12
+R1340,2026-07-01,In-store tablet,Non-member,1,79
+R1341,2026-07-02,In-store tablet,Basic,1,70
+R1342,2026-07-03,In-store tablet,Non-member,5,12
+R1343,2026-07-03,In-store tablet,Basic,5,10
+R1344,2026-07-03,In-store tablet,Premium,5,8
+R1345,2026-07-04,In-store tablet,Premium,5,77
+R1346,2026-07-05,In-store tablet,Non-member,3,81
+R1347,2026-07-05,In-store tablet,Non-member,5,14
+R1348,2026-07-07,In-store tablet,Basic,4,70
+R1349,2026-07-08,In-store tablet,Basic,4,25
+R1350,2026-07-09,In-store tablet,Non-member,4,40
+R1351,2026-07-10,In-store tablet,Basic,4,54
+R1352,2026-07-10,In-store tablet,Non-member,4,26
+R1353,2026-07-10,In-store tablet,Basic,2,50
+R1354,2026-07-10,In-store tablet,Premium,4,125
+R1355,2026-07-15,In-store tablet,Non-member,1,79
+R1356,2026-07-16,In-store tablet,Non-member,5,7
+R1357,2026-07-18,In-store tablet,Basic,5,7
+R1358,2026-07-18,In-store tablet,Basic,2,60
+R1359,2026-07-18,In-store tablet,Non-member,2,35
+R1360,2026-07-19,In-store tablet,Premium,5,9
+R1361,2026-07-19,In-store tablet,Premium,5,6
+R1362,2026-07-20,In-store tablet,Non-member,5,13
+R1363,2026-07-22,In-store tablet,Non-member,2,79
+R1364,2026-07-22,In-store tablet,Non-member,5,8
+R1365,2026-07-23,In-store tablet,Non-member,5,5
+R1366,2026-07-24,In-store tablet,Premium,4,68
+R1367,2026-07-25,In-store tablet,Non-member,3,59
+R1368,2026-07-26,In-store tablet,Basic,4,43
+R1369,2026-07-26,In-store tablet,Non-member,5,8
+R1370,2026-07-26,In-store tablet,Premium,5,52
+R1371,2026-07-27,In-store tablet,Basic,5,5
+R1372,2026-07-28,In-store tablet,Non-member,5,10
+R1373,2026-07-30,In-store tablet,Non-member,2,38
+R1374,2026-07-31,In-store tablet,Premium,2,114
+R1375,2026-07-31,In-store tablet,Non-member,3,89
+R1376,2026-08-01,In-store tablet,Non-member,5,33
+R1377,2026-08-01,In-store tablet,Basic,5,6
+R1378,2026-08-02,In-store tablet,Premium,5,11
+R1379,2026-08-03,In-store tablet,Non-member,3,67
+R1380,2026-08-03,In-store tablet,Non-member,3,140
+R1381,2026-08-04,In-store tablet,Non-member,2,212
+R1382,2026-08-05,In-store tablet,Basic,2,70
+R1383,2026-08-07,In-store tablet,Non-member,5,14
+R1384,2026-08-07,In-store tablet,Premium,5,50
+R1385,2026-08-08,In-store tablet,Basic,2,66
+R1386,2026-08-13,In-store tablet,Non-member,2,73
+R1387,2026-08-15,In-store tablet,Premium,5,99
+R1388,2026-08-22,In-store tablet,Non-member,3,52
+R1389,2026-08-23,In-store tablet,Non-member,5,8
+R1390,2026-08-23,In-store tablet,Premium,5,47
+R1391,2026-08-23,In-store tablet,Premium,5,7
+R1392,2026-08-24,In-store tablet,Premium,4,59
+R1393,2026-08-25,In-store tablet,Non-member,2,36
+R1394,2026-08-25,In-store tablet,Premium,4,130
+R1395,2026-08-27,In-store tablet,Basic,3,77
+R1396,2026-08-27,In-store tablet,Basic,3,102
+R1397,2026-08-28,In-store tablet,Non-member,5,10
+R1398,2026-08-29,In-store tablet,Non-member,1,90
+R1399,2026-08-30,In-store tablet,Premium,5,60
+R1400,2026-08-31,In-store tablet,Non-member,1,122

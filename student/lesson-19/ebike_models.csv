@@ -1,0 +1,12 @@
+model,style,year_added,year_dropped,status,first_year_units
+Volta City 1,Commuter,2021,2023,Discontinued,6
+Northline Haul,Cargo,2021,2022,Discontinued,3
+Volta City 2,Commuter,2022,,Current,22
+Ridgeback Trail E,Mountain,2022,2024,Discontinued,4
+Prairie Step-Through,Commuter,2023,,Current,17
+Northline Haul 2,Cargo,2023,,Current,14
+Kestrel Fold,Folding,2023,2024,Discontinued,5
+Volta City 3,Commuter,2024,,Current,25
+Ridgeback Trail E2,Mountain,2024,2025,Discontinued,7
+Prairie Step-Through LR,Commuter,2025,,Current,19
+Northline Family,Cargo,2025,,Current,15
