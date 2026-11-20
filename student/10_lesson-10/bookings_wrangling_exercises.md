@@ -144,9 +144,9 @@ You'll need: a dictionary, `.isna()` to build a mask, `.loc[rows, column]` to se
 You'll need: `.isna()`, `.median()`, `.fillna()`
 
 ### 3.6 Impossible and suspicious values
-Before you write any code, decide: fix, flag or leave the -2 hour booking, the 24-hour booking and the $450 rate? Write one line of reasoning for each in the notebook. If you're working with a partner, see if you agree.
+Before you write any code, decide: fix, flag or leave the -2 hour booking, the 24-hour booking and the \$450 rate? Write one line of reasoning for each in the notebook. If you're working with a partner, see if you agree.
 
-Then add a True/False `needs_review` column for hours that are 0 or less, or over 12. Set the hours that are 0 or less to missing, so they don't count in totals, and fix the $450 court rate. Check your work with summary statistics.
+Then add a True/False `needs_review` column for hours that are 0 or less, or over 12. Set the hours that are 0 or less to missing, so they don't count in totals, and fix the \$450 court rate. Check your work with summary statistics.
 
 You'll need: comparison operators, the `|` operator ("or"), `.loc[]` to assign, `np.nan`, `.describe()`
 
@@ -272,8 +272,8 @@ Try each step before you look. If your answer is different, work out *why* befor
 | 2.4b | One row: booking 5034 at -2 hours |
 | 2.5a | Everything except `Booking ID` is `str`. `Hours ` and `Hourly Rate` should be numbers, `Booking Date` should be a date |
 | 2.5b | One row: booking 5041, hours `"unknown"`. The rates are `str` because some have a `$`, and there's a `450.00` in the list |
-| 2.6 | Hours: lonely bars at 20 (the 5071 copy) and 24 (a court rental). Rate: one bar out at 450, when court rentals are normally $45. The -2 hours is *impossible*; 24 hours and $450 are *suspicious* |
-| Findings | At least: messy column names; missing hours and rates; 5 exact duplicates; booking 5071; spelling variants in activity, status and facility ID; negative hours; numbers stored as text (`"unknown"`, `$`); dates stored as text in mixed formats; the 24-hour booking and $450 rate |
+| 2.6 | Hours: lonely bars at 20 (the 5071 copy) and 24 (a court rental). Rate: one bar out at 450, when court rentals are normally \$45. The -2 hours is *impossible*; 24 hours and \$450 are *suspicious* |
+| Findings | At least: messy column names; missing hours and rates; 5 exact duplicates; booking 5071; spelling variants in activity, status and facility ID; negative hours; numbers stored as text (`"unknown"`, `$`); dates stored as text in mixed formats; the 24-hour booking and \$450 rate |
 | 3.1 | `['booking_id', 'member_id', 'facility_id', 'activity', 'booking_date', 'hours', 'hourly_rate', 'status']` |
 | 3.2a | 5 removed, 141 left |
 | 3.2b | 140 rows, `True`. The 20 has to be the string `"20"` |
@@ -282,9 +282,9 @@ Try each step before you look. If your answer is different, work out *why* befor
 | 3.3d | completed 121, no-show 10, cancelled 9 |
 | 3.3e | F01-F06, plus F07 (3 rows) |
 | 3.4 | `hours` and `hourly_rate` are both `float64`. Coercing is safe now because we already looked in 2.5: the only value it throws away is `"unknown"` |
-| 3.5a | Standard rates: Lane Swim $8, Public Skate $6, Gym Drop-In $10, Fitness Class $12, Court Rental $45. 0 missing rates left |
+| 3.5a | Standard rates: Lane Swim \$8, Public Skate \$6, Gym Drop-In \$10, Fitness Class \$12, Court Rental \$45. 0 missing rates left |
 | 3.5b | 5 rows filled with 1.5. The rate comes from a price list, so we *know* it. Nobody wrote down how long those bookings were, so the hours are a guess |
-| 3.6 | Suggested calls: -2 hours, flag and set to missing; 24 hours, flag (could be a tournament); $450, fix to $45 (the rate table proves it). After `.describe()`: hours min 1, max 24; rate min 6, max 45. 2 rows flagged |
+| 3.6 | Suggested calls: -2 hours, flag and set to missing; 24 hours, flag (could be a tournament); \$450, fix to \$45 (the rate table proves it). After `.describe()`: hours min 1, max 24; rate min 6, max 45. 2 rows flagged |
 | 3.7 | `(140, 10)` |
 
 ### Part 2
@@ -295,14 +295,14 @@ Try each step before you look. If your answer is different, work out *why* befor
 | 4.1 | Single brackets give a Series (one column). Double brackets give a DataFrame |
 | 4.2 | 5 rows. `.loc` slices by label and *includes* the end |
 | 5.2 | 22 completed court rentals, 75 Lane Swim or Public Skate, 138 not flagged |
-| 6.1 | The first booking is 2 hours at $8, so its total is 16 |
+| 6.1 | The first booking is 2 hours at \$8, so its total is 16 |
 | 6.2 | cancelled 0, no-show 0, completed 4,161.50. Whether no-shows pay is a business rule, so you'd ask the rec department, not the data |
 | 7.1 | One row: booking 5105, `2026-09-31`. September has 30 days |
 | 7.2 | Earliest 2026-09-01, latest **2027-09-14** (booking 5121). Flag it, don't fix it: changing it to 2026 would be a guess. 4 bookings flagged in total |
 | 7.3 | `booking_date` is `datetime64`; `activity`, `status` and `facility_id` are `category` |
-| 8 | `total_minmax` runs from 0 to 1 with a tiny median, because the flagged 24-hour booking ($1,080) sets the max. `total_z` has a mean of about 0 and a standard deviation of 1 |
+| 8 | `total_minmax` runs from 0 to 1 with a tiny median, because the flagged 24-hour booking (\$1,080) sets the max. `total_z` has a mean of about 0 and a standard deviation of 1 |
 | 9.1 | 137 `both`, 3 `left_only` |
 | 9.2 | All three are **F07**, the code from 2.3 that isn't in the facilities table. Keep them (a left merge does that for you) and tell whoever maintains the facilities list |
-| 10.1 | **Strathcona Sports Hall, $1,777.50** from 20 bookings. Next is Oliver Fitness Hub, $342.00 from 19. Strathcona doesn't have the most bookings; it wins on price, because court rentals cost $45/hour versus $6-12 for everything else |
+| 10.1 | **Strathcona Sports Hall, \$1,777.50** from 20 bookings. Next is Oliver Fitness Hub, \$342.00 from 19. Strathcona doesn't have the most bookings; it wins on price, because court rentals cost \$45/hour versus \$6-12 for everything else |
 | 10.2 | Tuesday 24, Wednesday 20, Friday 20, Thursday 16, Sunday 14, Saturday 13, Monday 11 |
-| Try it | Strathcona jumps by over $1,000, almost all from the one flagged 24-hour booking |
+| Try it | Strathcona jumps by over \$1,000, almost all from the one flagged 24-hour booking |

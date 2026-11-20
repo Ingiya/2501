@@ -110,7 +110,7 @@ Values: `0, 2, 1, 3, 2, 0, 1, 4, 2, 1`
 
 ## 7. Prices of snacks at the school store, in dollars (6 snacks)
 
-| Snack       | Price ($) |
+| Snack       | Price (\$) |
 |-------------|-----------|
 | Granola bar | 1.50      |
 | Apple       | 0.75      |
